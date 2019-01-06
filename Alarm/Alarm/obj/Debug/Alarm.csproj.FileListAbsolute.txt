@@ -1,0 +1,15 @@
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\bin\Debug\Alarm.exe.config
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\bin\Debug\Alarm.exe
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\bin\Debug\Alarm.pdb
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.csprojAssemblyReference.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\MainWindow.g.cs
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\App.g.cs
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm_MarkupCompile.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm_MarkupCompile.lref
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\MainWindow.baml
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.g.resources
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.csproj.CoreCompileInputs.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.exe
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Debug\Alarm.pdb

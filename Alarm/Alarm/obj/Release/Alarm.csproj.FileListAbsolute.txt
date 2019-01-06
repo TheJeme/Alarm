@@ -1,0 +1,29 @@
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\bin\Release\Alarm.exe.config
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\bin\Release\Alarm.exe
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\bin\Release\Alarm.pdb
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\MainWindow.g.cs
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\App.g.cs
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm_MarkupCompile.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm_MarkupCompile.lref
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\MainWindow.baml
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm.g.resources
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm.Properties.Resources.resources
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm.csproj.GenerateResource.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm.csproj.CoreCompileInputs.cache
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm.exe
+D:\KOODAUS\C#\Work In Progress\Alarm\Alarm\obj\Release\Alarm.pdb
+D:\KOODAUS\C#\Done\Alarm\Alarm\bin\Release\Alarm.exe.config
+D:\KOODAUS\C#\Done\Alarm\Alarm\bin\Release\Alarm.exe
+D:\KOODAUS\C#\Done\Alarm\Alarm\bin\Release\Alarm.pdb
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.csprojAssemblyReference.cache
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\MainWindow.g.cs
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\App.g.cs
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm_MarkupCompile.cache
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm_MarkupCompile.lref
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\MainWindow.baml
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.g.resources
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.Properties.Resources.resources
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.csproj.GenerateResource.cache
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.csproj.CoreCompileInputs.cache
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.exe
+D:\KOODAUS\C#\Done\Alarm\Alarm\obj\Release\Alarm.pdb
